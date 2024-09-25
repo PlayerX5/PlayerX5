@@ -8,9 +8,11 @@
   </ul>
 </div>
 
-<p align="center">
-    <img width="500" src="Welcome.gif" alt="Welcome">
-</p>
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="Welcome.gif">
+</picture>
 
 > Just your average programmer who goes with the flow of life.
 
