@@ -1,4 +1,4 @@
-# About Me
+o# About Me
 
 <div id="toc">
   <ul align="center">
@@ -9,8 +9,8 @@
 </div>
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="Welcome.gif">
+ <source media="(prefers-color-scheme: light)" srcset="Welcome.gif">
  <img alt="YOUR-ALT-TEXT" src="Welcome.gif">
 </picture>
 
