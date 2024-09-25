@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-    <img width="200" src="Welcome.gif" alt="Welcome">
+    <img width="500" src="Welcome.gif" alt="Welcome">
 </p>
 
 > Just your average programmer who goes with the flow of life.
