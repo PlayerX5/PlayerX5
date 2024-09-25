@@ -1,4 +1,4 @@
-o# About Me
+# About Me
 
 <div id="toc">
   <ul align="center">
@@ -8,11 +8,9 @@ o# About Me
   </ul>
 </div>
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="Welcome.gif">
- <source media="(prefers-color-scheme: light)" srcset="Welcome.gif">
- <img alt="YOUR-ALT-TEXT" src="Welcome.gif">
-</picture>
+<p align="center">
+    <img width="500" src="Welcome.gif" alt="Welcome">
+</p>
 
 > Just your average programmer who goes with the flow of life.
 
