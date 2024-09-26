@@ -16,7 +16,7 @@
 > $\color{lightblue}Just \space your \space Average \space Programmer \space who \space goes \space with \space the \space Flow \space of \space Life$
 
 > [!TIP]
- $\color{green}Keep \space it \space Cool$
+> $\color{green}Keep \space it \space Cool$
 
 > [!IMPORTANT]
 > $\color{purple}Interested \space in \space working \space on \space Projects \space that \space can \space help \space me \space Increase \space my \space Skills$
