@@ -1,9 +1,7 @@
-# About Me
-
 <div id="toc">
   <ul align="center">
     <summary>
-      <h1> Welcome to My Profile </h1>
+      <h1> $\color{darkred}Welcome \space Dear \space Guest🫴$ </h1>
     </summary>
   </ul>
 </div>
@@ -11,6 +9,8 @@
 <p align="center">
     <img width="500" src="Welcome.gif" alt="Welcome">
 </p>
+
+<h2> Let me should you around 🫴 </h2>
 
 > [!NOTE]
 > $\color{lightblue}Just \space your \space Average \space Programmer \space who \space goes \space with \space the \space Flow \space of \space Life$
