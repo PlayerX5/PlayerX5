@@ -13,16 +13,16 @@
 </p>
 
 > [!NOTE]
-> $\color{lightblue}Just \space your \space average \space programmer \space who \space goes \space with \space the \space flow \space of \space life$
+> $\color{lightblue}Just \space your \space Average \space Programmer \space who \space goes \space with \space the \space Flow \space of \space Life$
 
 > [!TIP]
- $\color{green}Keep \space it \space cool$
+ $\color{green}Keep \space it \space Cool$
 
 > [!IMPORTANT]
-> $\color{purple}Interested \space in \space working \space on \space projects \space that \space can \space help \space me \space increase \space my \space skill \space set$
+> $\color{purple}Interested \space in \space working \space on \space Projects \space that \space can \space help \space me \space Increase \space my \space Skills$
 
 > [!WARNING]
-> $\color{orange}Don't \space mess \space with \space the \space codes$
+> $\color{orange}Unstable \space Codes \space Present \space Here$
 
 > [!CAUTION]
-> $\color{red}Browse \space at \space your \space own \space Risk$
+> $\color{red}Browse \space At \space Your \space Own \space Risk$
